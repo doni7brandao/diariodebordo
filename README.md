@@ -1,5 +1,6 @@
-# diariodebordo
-Um pequeno Bloco de Anotações com PHP MySQL.
+# Diário de Bordo
+
+Um pequeno Bloco de Notas com PHP e MySQL para multiusuários.
 
 Você pode baixa e testar.
 
